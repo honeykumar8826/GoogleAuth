@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleAuth</string>
+    <string name="enter_any_value">enter any value</string>
+    <string name="default_web_client_id">354086755126-6o0q7aih1hui6und11gbe8cbe9qmkmbu.apps.googleusercontent.com</string>
+</resources>
